@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Maxi - A Unreal Engine and C++ UI game developer trying new things.
 - 👀 I’m interested in learning and contribuiting to Flutter app and web development.
 - 🌱 I’m currently learning everything about Flutter, Dart and design.
-- 💞️ I’m looking to collaborate on everything I can.
 - 📫 How to reach me -> maximgb@hotmail.com or in my LinkedIn profile: https://www.linkedin.com/in/maximiliano-gaston/
 
 <!---
